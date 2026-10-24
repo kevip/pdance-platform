@@ -26,12 +26,12 @@ Todas están en [`docs/adr/`](adr/README.md). Las que más condicionan el trabaj
 - **Un solo admin** con acceso total; todo chequeo pasa por `AdminGuard` / `requireAdmin()` (0008).
 - **Hosting:** OVH VPS-1 con Docker Compose y Cloudflare (0013).
 
-ADRs todavía **Propuestos**: 0001, 0007 y 0012.
+Los 13 ADRs están **Aceptados**.
 
 ## Pendientes, en orden
 
-1. [ ] Confirmar y aceptar los ADRs 0001, 0007 y 0012.
-2. [ ] Crear en GitHub las labels de triage (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`).
+1. [x] Confirmar y aceptar los ADRs 0001, 0007 y 0012.
+2. [x] Crear en GitHub las labels de triage (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`).
 3. [ ] Scaffold, en PRs pequeños con issue:
    1. Root workspace: `pnpm-workspace.yaml` y lockfile a la raíz, `package.json` raíz, `turbo.json`, `.nvmrc`; Biome en lugar de ESLint; TS 6 + `tsgo`; `@types/node` 24.
    2. Packages: `tsconfig`, `biome-config`, `schemas`, `api-client`, `ui`.
