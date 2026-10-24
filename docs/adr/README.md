@@ -24,5 +24,5 @@ Cada decisión técnica relevante del proyecto queda registrada aquí, en format
 | [0009](0009-ui-tailwind-shadcn.md) | Tailwind v4 + shadcn/ui + TanStack Table | Aceptado |
 | [0010](0010-formularios-tanstack-form-zod.md) | TanStack Form + Zod | Aceptado |
 | [0011](0011-calidad-de-codigo-biome.md) | Biome + Conventional Commits | Aceptado |
-| [0012](0012-testing.md) | Vitest + Testing Library + MSW; Playwright | Propuesto |
+| [0012](0012-testing.md) | Vitest + Testing Library; Playwright (sin MSW) | Propuesto |
 | [0013](0013-hosting-ovh-vps.md) | OVH VPS-1 + Docker Compose + Cloudflare | Aceptado |
