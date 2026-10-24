@@ -1,7 +1,7 @@
 # 0007 — Contrato de API con Zod compartido y OpenAPI
 
-- **Estado:** Propuesto
-- **Fecha:** 2026-10-19
+- **Estado:** Aceptado
+- **Fecha:** 2026-10-24 (propuesto el 2026-10-19)
 - **Decisores:** Kevin Castañeda
 
 ## Contexto
