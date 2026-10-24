@@ -76,6 +76,7 @@ pnpm lint    # todavía ESLint; pasa a Biome en el scaffold (ADR 0011)
 | Estado y pendientes | [`docs/handoff.md`](docs/handoff.md) |
 | Design doc, discovery, benchmark de hosting | Confluence, espacio `ALLEGRA`: <https://allegrapoledance.atlassian.net/wiki/spaces/ALLEGRA/overview> |
 | Issues y PRs | GitHub, `kevip/pdance-platform` |
+| Setup del entorno (humanos) | [`README.md`](README.md) |
 
 ## Agent skills
 
